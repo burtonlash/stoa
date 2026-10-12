@@ -1,0 +1,10 @@
+# Your private journal: never commit
+journal/situations.md
+
+# Original downloads (cleaned versions live in references/texts/)
+references/texts/raw/
+
+# System and Python files
+.DS_Store
+__pycache__/
+*.pyc
